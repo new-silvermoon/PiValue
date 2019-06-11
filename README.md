@@ -6,7 +6,7 @@ The Mandelbrot set is the set of complex numbers c for which the function f(z)=z
 does not diverge when iterated from z=0, i.e.,
 for which the sequence f(0),f(f(0)) etc., remains bounded in absolute value.
 
----Calculating the value of Pi-----
+---Calculating the value of Pi-----<br>
 The value lies within a Mandelbrot set if f(z) <= 2
 Considering the equation f(z)=z^{2}+c, the value of c at the cusp of Mandelbrot set is 0.25
 Now, if we add a slight increment (e) to the value and apply it to the above equation, eventually the value of f(z)

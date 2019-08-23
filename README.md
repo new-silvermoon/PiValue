@@ -20,3 +20,22 @@ the decimal point at the correct place)
 To know more about the Madhava-Leibniz approach of estimating the value of pi, please visit:
 https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80
 
+
+3. <b>LuiHui approach</b>
+
+To know more about Liu Hui method visit
+
+https://en.wikipedia.org/wiki/Liu_Hui%27s_%CF%80_algorithm
+
+3. <b>Euler Convergence</b>
+
+"""
+To learn more about Euler Convergence, please visit the below link
+
+http://mathworld.wolfram.com/ConvergenceImprovement.html
+"""
+
+
+
+
+

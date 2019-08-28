@@ -35,6 +35,14 @@ To learn more about Euler Convergence, please visit the below link
 http://mathworld.wolfram.com/ConvergenceImprovement.html
 """
 
+4. <b>Bailey's infinite series method</b>
+
+"""
+In 1997, David H. Bailey, Peter Borwein and Simon Plouffe published a paper (Bailey, 1997) on a new formula for π as an infinite series:
+
+{\displaystyle \pi =\sum _{k=0}^{\infty }{\frac {1}{16^{k}}}\left({\frac {4}{8k+1}}-{\frac {2}{8k+4}}-{\frac {1}{8k+5}}-{\frac {1}{8k+6}}\right).} {\displaystyle \pi =\sum _{k=0}^{\infty }{\frac {1}{16^{k}}}\left({\frac {4}{8k+1}}-{\frac {2}{8k+4}}-{\frac {1}{8k+5}}-{\frac {1}{8k+6}}\right).}
+"""
+
 
 
 

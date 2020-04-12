@@ -43,6 +43,18 @@ In 1997, David H. Bailey, Peter Borwein and Simon Plouffe published a paper (Bai
 {\displaystyle \pi =\sum _{k=0}^{\infty }{\frac {1}{16^{k}}}\left({\frac {4}{8k+1}}-{\frac {2}{8k+4}}-{\frac {1}{8k+5}}-{\frac {1}{8k+6}}\right).} {\displaystyle \pi =\sum _{k=0}^{\infty }{\frac {1}{16^{k}}}\left({\frac {4}{8k+1}}-{\frac {2}{8k+4}}-{\frac {1}{8k+5}}-{\frac {1}{8k+6}}\right).}
 """
 
+5. <b>Probability of relatively prime</b>
+
+"""
+The probability that two integers m and n picked at random are relatively prime is:
+
+P((m,n) = 1) = 6/(pi^2)
+
+To know more about Relatively prime, please visit:
+
+https://mathworld.wolfram.com/RelativelyPrime.html
+"""
+
 
 
 

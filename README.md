@@ -55,6 +55,9 @@ To know more about Relatively prime, please visit:
 https://mathworld.wolfram.com/RelativelyPrime.html
 """
 
+6. <b> Machin-Like formula </b>
+https://en.wikipedia.org/wiki/Machin-like_formula
+
 
 
 

@@ -17,4 +17,4 @@ for i in range(num_of_iterations+1):
 
 end_time = time.clock() - start_time
 print("Time taken "+str(end_time))
-print("Te value of pi "+str(pi))
+print("The value of pi "+str(pi))
